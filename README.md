@@ -2,8 +2,8 @@
 C# Graphics Pizza Slicing.
 
 ## Drawing Algorithms Used
-• DDA Line Drawing Algorithm<br/>
-• Polar Circle Drawing Algorithm
+• DDA Line<br/>
+• Polar Circle
 
 ## Demo
 
